@@ -1,6 +1,6 @@
 name: LegionPE_Theta_Classic
-api: 2.0.0
+api: 3.0.0-ALPHA6
 authors:
 - PEMapModder
-version: 5.classic.1.0
+version: 5.0.0
 main: legionpe\theta\classic\ClassicPlugin
